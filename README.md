@@ -1,2 +1,0 @@
-# TripleP
-TripleP
